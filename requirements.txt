@@ -1,0 +1,2 @@
+# The lake-change MVP runs on the Python standard library.
+# For production raster processing, add: pystac-client, stackstac, xarray, rasterio, geopandas.
